@@ -1,0 +1,3 @@
+se estiver usando o linux, baixa a biblioteca scapy, usando o (pip install scapy)
+
+#Se estiver no windows, use o arquivor que veio junto scapy-2.3.1.zip, extraia e entra com cmd na pasta, basta dar um (py setup.py install)
